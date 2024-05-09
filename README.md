@@ -12,6 +12,9 @@ sudo apt-get install nasm
 # now lets compile it
 first paste this in your termnial
 ``` chmod +x compile.sh ```
+
+
+
 Now paste this in your termnial it uses the gcc compiler and nasm to compile your code
 
 ```./compile.sh```
